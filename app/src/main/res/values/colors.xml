@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#DB3022</color>
+    <color name="primary">#F33A6A</color>
     <color name="background">#F9F9F9</color>
     <color name="backgroundAd">#FFFFFFFF</color>
-    <color name="error">#F01F0E</color>
-    <color name="success">#2AA952</color>
-    <color name="sale">#DB3022</color>
+    <color name="error">#673147</color>
+    <color name="success">#DC143C</color>
+    <color name="sale">	#FAA0A0</color>
     <color name="black">#222222</color>
     <color name="mainText">#222222</color>
     <color name="textAd">#9B9B9B</color>

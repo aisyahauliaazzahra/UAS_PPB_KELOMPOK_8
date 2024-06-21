@@ -83,7 +83,7 @@
                         android:id="@+id/quantityTvCart"
                         android:layout_width="50dp"
                         android:layout_height="match_parent"
-                        android:text="14"
+                        android:text="10"
                         android:gravity="center"
                         android:textColor="@color/mainText"
                         android:textSize="18sp"
